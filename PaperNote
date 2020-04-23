@@ -23,10 +23,10 @@ software.Pearson's correlations were computed.
 臉部被畫上179個特徵點，並被瞳距對齊，並計算皮爾森相關係數
 
 
-				男	女
-臉的長寬比		v   v
+		    男	女
+臉的長寬比		v    v
 臉的長寬比		v   
-臉頰跟下巴的寬比	v   v
+臉頰跟下巴的寬比     v    v
 
 Section 2 > 計算方法
 Section 3 > 相關係數
