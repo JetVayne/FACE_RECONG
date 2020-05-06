@@ -2,8 +2,8 @@
 
 ## Data Meta
 - 目前我先將 Mentor 提供的資料分成 A、B、C、D 四個資料集
-    * [Google Drive](123)
-- [Mentor 提供之資料集之細項](https://hackmd.io/IhAUzspeRrS1aofZi49JSw)
+    * [Google Drive](https://drive.google.com/drive/u/1/folders/17SMHne85A8tDfcgMWMv3R9adPUQ6hGDC)
+- [資料集細項](https://hackmd.io/IhAUzspeRrS1aofZi49JSw)
 
 ## Tidy - Code
 
