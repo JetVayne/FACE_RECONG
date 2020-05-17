@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+cv2
+numpy
+opencv-contrib-python
+imutils
+scipy
+matplotlib
+pillow
+shapely
+descartes
+area
