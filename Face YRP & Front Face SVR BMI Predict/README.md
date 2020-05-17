@@ -1,7 +1,3 @@
----
-tags: Face Recong, Head Pose, Img-Nrlz, Face YRP
----
-
 # 2020 / 05 / 14 - ML Method Document
 
 ## Result Display
