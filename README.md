@@ -25,10 +25,10 @@
 ## Missions
 
 ### WORK - 1 :  3D Model 建置之參考資料與可用資源查詢 ♞ 05 / 12 - 05 / 21
- * 簡大爲: [PRNet](https://github.com/YadiraF/PRNet)
- * 徐子修: DL Method
- * 朱毅豪: [2D-and-3D-face-alignment](https://github.com/1adrianb/2D-and-3D-face-alignment/tree/b4bc5582cb3c431bd4439d2cf63c45a34f800ab2) 、 [vrn](https://github.com/AaronJackson/vrn) 、 [face3d](https://github.com/YadiraF/face3d)
- * 周奕成: Preparing ...
+ * 簡大爲 : [PRNet](https://github.com/YadiraF/PRNet)
+ * 徐子修 : DL Method
+ * 朱毅豪 : [2D-and-3D-face-alignment](https://github.com/1adrianb/2D-and-3D-face-alignment/tree/b4bc5582cb3c431bd4439d2cf63c45a34f800ab2) 、 [vrn](https://github.com/AaronJackson/vrn) 、 [face3d](https://github.com/YadiraF/face3d)
+ * 周奕成 : Preparing ...
 
 <br>
 
