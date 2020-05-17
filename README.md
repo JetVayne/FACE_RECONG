@@ -34,7 +34,7 @@
 
 ## Meeting Record
 - [05 / 05 - Outliner 之正規化探討與下一階段的正規化方法方向](https://www.youtube.com/watch?v=O1Jv3ryhlTo&feature=youtu.be)
-- [05/09 - face pose 驗證流程討論](https://www.youtube.com/watch?v=nOOEfprKR7w&feature=youtu.be)
+- [05 / 09 - face pose 驗證流程討論](https://www.youtube.com/watch?v=nOOEfprKR7w&feature=youtu.be)
 
 <br>
 
