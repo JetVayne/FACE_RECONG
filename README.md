@@ -28,7 +28,7 @@
  * 大爲 : [PRNet](https://github.com/YadiraF/PRNet)
  * 子修 : DL Method
  * 毅豪 : [2D-and-3D-face-alignment](https://github.com/1adrianb/2D-and-3D-face-alignment/tree/b4bc5582cb3c431bd4439d2cf63c45a34f800ab2) 、 [vrn](https://github.com/AaronJackson/vrn) 、 [face3d](https://github.com/YadiraF/face3d)
- * 奕成 : Preparing ...
+ * 奕成 : [保險科技資料整理_3D人臉_周奕成](https://github.com/JetVayne/FACE_RECONG/blob/master/Face%20Normalization%200505/%E4%BF%9D%E9%9A%AA%E7%A7%91%E6%8A%80%E8%B3%87%E6%96%99%E6%95%B4%E7%90%86_3D%E4%BA%BA%E8%87%89_%E5%91%A8%E5%A5%95%E6%88%90.pdf)
 
 <br>
 
