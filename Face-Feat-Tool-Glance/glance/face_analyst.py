@@ -124,6 +124,7 @@ class FaceAnalyst:
         self.image = fg_wizard.roi_image
         self.fg_width = fg_wizard.roi_width
         self.fg_height = fg_wizard.roi_height
+        self.fg_size = fg_wizard.roi_size
 
         return True
 
@@ -153,8 +154,14 @@ class FaceAnalyst:
         self.data['gender'] = self.gender
         self.data['age'] = self.age
         self.data['race'] = self.race
-        self.data['feat'] = self.features
-        self.data['feat-all'] = self.features_all
+        self.data['roll'] = self.roll
+        self.data['yaw'] = self.yaw
+        self.data['pitch'] = self.pitch
+        self.data['fg_width'] = self.fg_width
+        self.data['fg_height'] = self.fg_height
+        self.data['fg_size'] = self.fg_size
+        self.data['feat'] = self.features_all
+        # self.data['feat-all'] = self.features_all
 
     def analyze(self):
         status = self.load_image()
