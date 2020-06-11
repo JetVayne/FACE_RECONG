@@ -8,3 +8,4 @@ fa.analyze()
 
 if fa.result:
     pp(fa.data)
+    print(fa.data.keys())
