@@ -47,7 +47,7 @@ class FaceFeatHelper:
 
         self.scale_feat_list = ['ED', 'NLJ']
 
-        self.bmi_feat_list = ['CJWR', ' CJWR2',
+        self.bmi_feat_list = ['CJWR', 'CJWR2',
                               'FMWR', 'FMWR2',
                               'ESR', 'ESR2', 'ESR3', 'ESR4',
                               'EBHR', 'EBHR2', 'EBHR3', 'EBHR4', 'EBHR5',
