@@ -11,3 +11,4 @@ class GarWizard:
         except Exception as e:
             msg = LogTool.pp_exception(e)
             print(msg)
+

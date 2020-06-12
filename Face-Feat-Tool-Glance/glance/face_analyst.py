@@ -168,11 +168,11 @@ class FaceAnalyst:
         if not status:
             return
 
-        status = self.get_face_info()
-        if not status:
-            msg = 'Failed to get face info by Deep-Face. {}'.format(self.img_os_info)
-            print(msg)
-            return
+        # status = self.get_face_info()
+        # if not status:
+        #     msg = 'Failed to get face info by Deep-Face. {}'.format(self.img_os_info)
+        #     print(msg)
+        #     return
 
         status = self.get_yrp()
         if not status:

@@ -79,13 +79,15 @@ class LogTool:
 
     @staticmethod
     def pp_exception(e):
-        error_class = e.__class__.__name__
-        detail = e.args[0]
-        cl, exc, tb = sys.exc_info()
-        lastCallStack = traceback.extract_tb(tb)[-1]
-        fileName = lastCallStack[0]
-        lineNum = lastCallStack[1]
-        funcName = lastCallStack[2]
-        err_msg = "File \"{}\", line {}, in {}: [{}] {}".format(fileName, lineNum, funcName, error_class, detail)
-
-        return err_msg
+        try:
+            error_class = e.__class__.__name__
+            detail = e.args[0]
+            cl, exc, tb = sys.exc_info()
+            lastCallStack = traceback.extract_tb(tb)[-1]
+            fileName = lastCallStack[0]
+            lineNum = lastCallStack[1]
+            funcName = lastCallStack[2]
+            err_msg = "File \"{}\", line {}, in {}: [{}] {}".format(fileName, lineNum, funcName, error_class, detail)
+            return err_msg
+        except:
+            return ''
