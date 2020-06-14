@@ -78,6 +78,14 @@ class FaceAnalyst:
             print(msg)
             return False
 
+    def get_face_gender(self):
+        gender = GarWizard.get_gender(self.image)
+        if gender:
+            self.gender = gender
+            return True
+        else:
+            return False
+
     def get_face_info(self):
         deep_face_info = GarWizard.get_face_dict(self.image_path)
         if deep_face_info:
@@ -173,6 +181,12 @@ class FaceAnalyst:
         #     msg = 'Failed to get face info by Deep-Face. {}'.format(self.img_os_info)
         #     print(msg)
         #     return
+
+        status = self.get_face_gender()
+        if not status:
+            msg = 'Failed to get face-gender info by CVLib. {}'.format(self.img_os_info)
+            print(msg)
+            return
 
         status = self.get_yrp()
         if not status:

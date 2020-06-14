@@ -356,6 +356,7 @@ class FaceFeatHelper:
         self.FCR2 = fcr.val_2
         self.FCR3 = fcr.val_3
         self.FCR4 = fcr.val_4
+        self.FCR5 = fcr.val_5
 
         # print('FCR: {}'.format(self.FCR))
 
@@ -369,6 +370,7 @@ class FaceFeatHelper:
         self.UCR2 = ucr.val_2
         self.UCR3 = ucr.val_3
         self.UCR4 = ucr.val_4
+        self.UCR5 = ucr.val_5
 
         # print('UCR: {}'.format(self.UCR))
 

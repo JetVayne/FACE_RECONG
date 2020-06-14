@@ -1,0 +1,26 @@
+sudo apt-get install libsm6
+
+sudo apt-get install libxrender1
+
+sudo apt-get install libxext-dev
+
+conda create --name bmidev2 python=3.6
+
+conda activate bmidev2
+
+pip install --user --upgrade pip
+
+pip install --user opencv-python
+
+pip install --user cmake
+
+conda install -c conda-forge dlib
+
+pip install --user --no-cache-dir deepface
+
+conda install -c conda-forge shapely
+
+pip install cvlib
+
+pip install --user -r requirements.txt
+
